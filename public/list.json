@@ -1,0 +1,72 @@
+[
+  {
+    "shopId": 1,
+    "shopName": "龙泉山水蜜桃产",
+    "recommend": "龙泉山水蜜桃产地直采，买三斤送一斤",
+    "salePrice": 12,
+    "storeDoor": "xxxx门店",
+    "doorSum": 23,
+    "salesVolume": 12,
+    "repertory": 11,
+    "consume": 1,
+    "state": "在售",
+    "doorState": "在售",
+    "amendTime": "2016-09-21 8:50:08"
+  },
+  {
+    "shopId": 2,
+    "shopName": "桃子",
+    "recommend": "龙泉山水蜜桃产地直采，买三斤送一斤",
+    "salePrice": 23,
+    "storeDoor": "yyyy门店",
+    "doorSum": 23,
+    "salesVolume": 12,
+    "repertory": 11,
+    "consume": 0,
+    "state": "在售",
+    "doorState": "在售",
+    "amendTime": "2016-09-21 8:50:08"
+  },
+  {
+    "shopId": 3,
+    "shopName": "香蕉",
+    "recommend": "龙泉山水蜜桃产地直采，买三斤送一斤",
+    "salePrice": 435,
+    "storeDoor": "zzzz门店",
+    "doorSum": 23,
+    "salesVolume": 12,
+    "repertory": 11,
+    "consume": 2,
+    "state": "在售",
+    "doorState": "在售",
+    "amendTime": "2016-09-21 8:50:08"
+  },
+  {
+    "shopId": 4,
+    "shopName": "橘子",
+    "recommend": "龙泉山水蜜桃产地直采，买三斤送一斤",
+    "salePrice": 6,
+    "storeDoor": "qqqq门店",
+    "doorSum": 23,
+    "salesVolume": 12,
+    "repertory": 11,
+    "consume": 0,
+    "state": "停售",
+    "doorState": "停售",
+    "amendTime": "2016-09-21 8:50:08"
+  },
+  {
+    "shopId": 5,
+    "shopName": "芒果",
+    "recommend": "龙泉山水蜜桃产地直采，买三斤送一斤",
+    "salePrice": 7,
+    "storeDoor": "eeee门店",
+    "doorSum": 23,
+    "salesVolume": 12,
+    "repertory": 11,
+    "consume": 0,
+    "state": "停售",
+    "doorState": "停售",
+    "amendTime": "2016-09-21 8:50:08"
+  }
+]

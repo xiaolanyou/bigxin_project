@@ -1,0 +1,39 @@
+
+  [
+    {
+      "id": "1",
+      "name": "苹果",
+      "price":  12.00,
+      "supplier": "张三水果店",
+      "allStock": "324",
+      "salesVolume": "888",
+      "remnantInventory": "12",
+      "salesStatus": "在售",
+      "time": "2016-05-01",
+      "expand": "开启"
+    },
+    {
+      "id": "2",
+      "name": "香蕉",
+      "price":  12.00,
+      "supplier": "李四水果店",
+      "allStock": "324",
+      "salesVolume": "888",
+      "remnantInventory": "12",
+      "salesStatus": "在售",
+      "time": "2016-05-01",
+      "expand": "开启"
+    },
+    {
+      "id": "3",
+      "name": "橘子",
+      "price":  12.00,
+      "supplier": "王五水果店",
+      "allStock": "324",
+      "salesVolume": "888",
+      "remnantInventory": "12",
+      "salesStatus": "在售",
+      "time": "2016-05-01",
+      "expand": "开启"
+    }
+  ]

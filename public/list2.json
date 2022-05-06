@@ -1,0 +1,47 @@
+[
+  {
+    "tabId":1,
+    "bourn": "四川省（成都市，绵阳市。。。）",
+    "fweight": 1,
+    "fwprice": 5,
+    "cweight": 1,
+    "cwprice": 1,
+    "groupname": "省内"
+  },
+  {
+    "tabId":2,
+    "bourn": "四川省（甘、阿、梁）",
+    "fweight": 1,
+    "fwprice": 5,
+    "cweight": 1,
+    "cwprice": 2,
+    "groupname": "甘孜、阿坝、梁山"
+  },
+  {
+    "tabId":3,
+    "bourn": "天津市、江苏省",
+    "fweight": 1,
+    "fwprice": 0.6,
+    "cweight": 0.7,
+    "cwprice": 1.0,
+    "groupname": "普通省外"
+  },
+  {
+    "tabId":4,
+    "bourn": "广东省、福建省",
+    "fweight": 1,
+    "fwprice": 0.6,
+    "cweight": 0.7,
+    "cwprice": 1.0,
+    "groupname": "普通省外"
+  },
+  {
+    "tabId":5,
+    "bourn": "西藏、新疆、广西壮族自治区",
+    "fweight": 1,
+    "fwprice": 2,
+    "cweight": 1,
+    "cwprice": 1.5,
+    "groupname": "普通省外"
+  }
+]
